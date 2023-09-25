@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-id="Animation" tvg-name="Animation" group-title="Animation", Animation
+https://iptv-org.github.io/iptv/categories/animation.m3u
+
+#EXTINF: -1 tvg-id="Auto" tvg-name="Auto" group-title="Auto", Auto
+https://iptv-org.github.io/iptv/categories/auto.m3u
+
+#EXTINF: -1 tvg-id="Business" tvg-name="Business" group-title="Business", Business
+https://iptv-org.github.io/iptv/categories/business.m3u
+
+#EXTINF: -1 tvg-id="Classic" tvg-name="Classic" group-title="Classic", Classic
+https://iptv-org.github.io/iptv/categories/classic.m3u
+
+#EXTINF: -1 tvg-id="Comedy" tvg-name="Comedy" group-title="Comedy", Comedy
+https://iptv-org.github.io/iptv/categories/comedy.m3u
+
+#EXTINF: -1 tvg-id="Cooking" tvg-name="Cooking" group-title="Cooking", Cooking
+https://iptv-org.github.io/iptv/categories/cooking.m3u
+
+#EXTINF: -1 tvg-id="Culture" tvg-name="Culture" group-title="Culture", Culture
+https://iptv-org.github.io/iptv/categories/culture.m3u
+
+#EXTINF: -1 tvg-id="Documentary" tvg-name="Documentary" group-title="Documentary", Documentary
+https://iptv-org.github.io/iptv/categories/documentary.m3u
+
+#EXTINF: -1 tvg-id="Education" tvg-name="Education" group-title="Education", Education
+https://iptv-org.github.io/iptv/categories/education.m3u
+
+#EXTINF: -1 tvg-id="Entertainment" tvg-name="Entertainment" group-title="Entertainment", Entertainment
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
+
+#EXTINF: -1 tvg-id="Family" tvg-name="Family" group-title="Family", Family
+https://iptv-org.github.io/iptv/categories/family.m3u
+
+#EXTINF: -1 tvg-id="General" tvg-name="General" group-title="General", General
+https://iptv-org.github.io/iptv/categories/general.m3u
+
+#EXTINF: -1 tvg-id="Kids" tvg-name="Kids" group-title="Kids", Kids
+https://iptv-org.github.io/iptv/categories/kids.m3u
+
+#EXTINF: -1 tvg-id="Legislative" tvg-name="Legislative" group-title="Legislative", Legislative
+https://iptv-org.github.io/iptv/categories/legislative.m3u
+
+#EXTINF: -1 tvg-id="Lifestyle" tvg-name="Lifestyle" group-title="Lifestyle", Lifestyle
+https://iptv-org.github.io/iptv/categories/lifestyle.m3u
+
+#EXTINF: -1 tvg-id="Movies" tvg-name="Movies" group-title="Movies", Movies
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF: -1 tvg-id="Music" tvg-name="Music" group-title="Music", Music
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+#EXTINF: -1 tvg-id="News" tvg-name="News" group-title="News", News
+https://iptv-org.github.io/iptv/categories/news.m3u
+
+#EXTINF: -1 tvg-id="Outdoor" tvg-name="Outdoor" group-title="Outdoor", Outdoor
+https://iptv-org.github.io/iptv/categories/outdoor.m3u
+
+#EXTINF: -1 tvg-id="Relax" tvg-name="Relax" group-title="Relax", Relax
+https://iptv-org.github.io/iptv/categories/relax.m3u
+
+#EXTINF: -1 tvg-id="Religious" tvg-name="Religious" group-title="Religious", Religious
+https://iptv-org.github.io/iptv/categories/religious.m3u
+
+#EXTINF: -1 tvg-id="Science" tvg-name="Science" group-title="Science", Science
+https://iptv-org.github.io/iptv/categories/science.m3u
+
+#EXTINF: -1 tvg-id="Series" tvg-name="Series" group-title="Series", Series
+https://iptv-org.github.io/iptv/categories/series.m3u
+
+#EXTINF: -1 tvg-id="Shop" tvg-name="Shop" group-title="Shop", Shop
+https://iptv-org.github.io/iptv/categories/shop.m3u
+
+#EXTINF: -1 tvg-id="Sports" tvg-name="Sports" group-title="Sports", Sports
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF: -1 tvg-id="Travel" tvg-name="Travel" group-title="Travel", Travel
+https://iptv-org.github.io/iptv/categories/travel.m3u
+
+#EXTINF: -1 tvg-id="Weather" tvg-name="Weather" group-title="Weather", Weather
+https://iptv-org.github.io/iptv/categories/weather.m3u
+
+#EXTINF: -1 tvg-id="XXX" tvg-name="XXX" group-title="XXX", XXX
+https://iptv-org.github.io/iptv/categories/xxx.m3u
+
+#EXTINF: -1 tvg-id="Undefined" tvg-name="Undefined" group-title="Undefined", Undefined
+https://iptv-org.github.io/iptv/categories/undefined.m3u
